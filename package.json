@@ -1,6 +1,7 @@
 {
 	"name": "rifupanda",
 	"displayName": "Rifu Panda",
+	"publisher": "khanghy1000",
 	"description": "Custom vscode color theme based on Panda syntax theme",
 	"version": "0.0.1",
 	"engines": {
@@ -13,13 +14,13 @@
 		"type": "git",
 		"url": "https://github.com/khanghy1000/Rifu-Panda"
 	},
-    "keywords": [
-        "Panda Theme",
-        "Panda Syntax",
-        "Rifu Panda",
-        "Dark Theme",
-        "theme"
-    ],
+	"keywords": [
+		"Panda Theme",
+		"Panda Syntax",
+		"Rifu Panda",
+		"Dark Theme",
+		"theme"
+	],
 	"contributes": {
 		"themes": [
 			{
