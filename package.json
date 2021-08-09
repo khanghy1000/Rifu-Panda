@@ -1,24 +1,32 @@
 {
-    "name": "rifupanda",
-    "displayName": "Rifu Panda",
-    "description": "Custom Panda syntax theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
+	"name": "rifupanda",
+	"displayName": "Rifu Panda",
+	"description": "Custom vscode color theme based on Panda syntax theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/khanghy1000/Rifu-Panda"
+	},
+    "keywords": [
+        "Panda Theme",
+        "Panda Syntax",
+        "Rifu Panda",
+        "Dark Theme",
+        "theme"
     ],
-    "repository": {
-        
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Rifu Panda",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rifu Panda-color-theme.json"
-            }
-        ]
-    }
+	"contributes": {
+		"themes": [
+			{
+				"label": "Rifu Panda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RifuPanda-color-theme.json"
+			}
+		]
+	}
 }
