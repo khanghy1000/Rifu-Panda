@@ -3,7 +3,7 @@
 	"displayName": "Rifu Panda",
 	"publisher": "khanghy1000",
 	"description": "Custom vscode color theme based on Panda syntax theme",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
