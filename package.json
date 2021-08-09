@@ -1,0 +1,24 @@
+{
+    "name": "rifupanda",
+    "displayName": "Rifu Panda",
+    "description": "Custom Panda syntax theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rifu Panda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rifu Panda-color-theme.json"
+            }
+        ]
+    }
+}
